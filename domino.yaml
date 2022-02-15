@@ -1,0 +1,5 @@
+datasetConfigurations:
+  - name: "automated data ingestion"
+    outputs:
+      - path: "demoData"
+        dataset: "demoData"
