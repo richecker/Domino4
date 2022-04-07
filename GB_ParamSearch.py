@@ -20,7 +20,7 @@ import pickle
 
 #Adding sixth comment
 
-#capture inputs
+#capture inputs1
 loss_ = sys.argv[1]
 n_estimators_ = int(sys.argv[2])
 
